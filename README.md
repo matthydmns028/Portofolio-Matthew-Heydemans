@@ -23,8 +23,6 @@ This project consists of multiple interconnected static HTML pages styled unifor
 - **HTML5** - Semantic and structured markup for all pages.
 - **CSS3** - Custom styling, Flexbox, CSS Grid, custom properties (variables) for theme management.
 - **Vanilla JavaScript (ES6+)** - Used for interactions such as the scroll animations, active link updates, custom cursor handling and mobile nav toggle.
-- **Boxicons** - Icon library used across the project layout.
-- **Particles.js** - Interactive background particle effect plugin for a modern look.
 
 ## ✨ Features
 
